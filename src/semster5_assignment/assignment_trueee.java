@@ -1,3 +1,7 @@
+NAME=SAABIRIIN KHALIIF GEEDI
+ID=C1220222
+
+
 package semster5_assignment;
 
 public class assignment_trueee {
